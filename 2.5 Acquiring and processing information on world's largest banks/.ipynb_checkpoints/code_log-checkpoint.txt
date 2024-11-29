@@ -1,0 +1,2 @@
+2024-11-09 17:41:52 : Starting data extraction from URL
+2024-11-09 17:41:53 : Starting data transformation
